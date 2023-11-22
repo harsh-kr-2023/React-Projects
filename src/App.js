@@ -1,6 +1,6 @@
 import "./App.css";
-import Manual from "./manual/Manual.js";
-import Automatic from "./automatic/Automatic.js";
+import Manual from "./counter/manual/manual";
+import Automatic from "./counter/automatic/Automatic";
 
 function App() {
   return (
